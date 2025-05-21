@@ -19,7 +19,7 @@
 3. Скопируйте содержимое `sort-responses.js` и вставьте в консоль.
 4. Нажмите Enter — карточки будут отсортированы.
 
-### С Tampermonkey/Greasemonkey
+### В Tampermonkey/Greasemonkey
 1. Установите расширение [Tampermonkey](https://www.tampermonkey.net/) или Greasemonkey.
 2. Создайте новый скрипт и вставьте в него содержимое `sort-responses.js`.
 3. В секции метаданных установите:
