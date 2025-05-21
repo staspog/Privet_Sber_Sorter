@@ -23,7 +23,7 @@
 1. Установите расширение [Tampermonkey](https://www.tampermonkey.net/) или Greasemonkey.
 2. Создайте новый скрипт и вставьте в него содержимое `sort-responses.js`.
 3. В секции метаданных установите:
-   ```js
+```js
 // ==UserScript==
 // @name         Sort Pulse Responses
 // @namespace    https://github.com/yourusername/sort-pulse-responses
@@ -32,3 +32,4 @@
 // @match        https://*.pb10.ru/*
 // @run-at       document-end
 // ==/UserScript==
+```
